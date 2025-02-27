@@ -1,0 +1,4 @@
+x = 323
+y = 444
+both = x + y
+print(both)
